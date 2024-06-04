@@ -12,13 +12,13 @@ Before running the application, ensure you have the following installed in your 
 
 ### Installation
 
-1. Clone or download the repository from [https://github.com/mahabubsaki/l2a3.git].
+1. Clone or download the repository from [https://github.com/Razu-Biswas/l2a3].
 
 `Clone a Repository:`
 This command clones a repository from GitHub to your local machine.
 
 ```bash
-   git clone https://github.com/mahabubsaki/l2a3.git
+   git clone https://github.com/Razu-Biswas/l2a3
 ```
 
 2. Navigate to the project directory in your terminal.
